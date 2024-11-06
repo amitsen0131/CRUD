@@ -2,7 +2,8 @@
 
                                     instruction for project run 
 
-
+Extract rapifuzz.zip 
+open folder in vs code 
 open your terminal 
 select your folder 
 write command python -m venv .venv 
